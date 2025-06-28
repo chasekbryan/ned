@@ -1,0 +1,13 @@
+[package]
+name        = "ned"
+version     = "0.1.0"
+edition     = "2021"
+description = "A minimal, line-based editor modeled on ed; syntax highlighting and startup cheat‐sheet."
+readme      = "README.md"
+repository  = "https://github.com/chasekbryan/ned"
+
+[dependencies]
+regex    = "1"
+syntect = "4"
+clap     = { version = "4", features = ["derive"] }
+crossterm = "0.24"
