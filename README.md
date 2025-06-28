@@ -1,6 +1,6 @@
 # ned
 
-**ned** (new ed) is a minimal, line-based text editor written in Rust, modeled on the classic Unix `ed`. It prints a startup cheat sheet, supports core line-editing commands, and writes changes back to disk. No syntax highlighting.
+**ned** (new ed) is a minimal, line-based text editor written in Rust, modeled on the classic Unix `ed`. It prints a startup cheat sheet, supports core line-editing commands, and writes changes back to disk. 
 
 ---
 
